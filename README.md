@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tubakiani
-- 👀 I’m interested in front end
+- 👀 I’m interested in front-end
 - 🌱 I’m currently learning React
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/tuba-kiani-7b4558225/) | [Instagram](https://instagram.com/tubakianii)
 
